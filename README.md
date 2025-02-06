@@ -17,8 +17,8 @@ Your personal anime recommendation system! 🎥✨
 
 | Component       | Technology  |
 |----------------|------------|
-| 🖥️ **Backend** | Spring Boot |
-| 🗄️ **Database** | MySQL |
+| 💻 **Backend** | Spring Boot |
+| 💡 **Database** | MySQL |
 | 🎨 **GUI** | Swing |
 | 🔗 **ORM** | Hibernate (for MySQL interaction) |
 
