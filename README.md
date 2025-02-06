@@ -13,7 +13,7 @@ Your personal anime recommendation system! 🎥✨
 
 ---
 
-## 🛠️ Technologies Used  
+## 📃 Technologies Used  
 
 | Component       | Technology  |
 |----------------|------------|
@@ -24,7 +24,7 @@ Your personal anime recommendation system! 🎥✨
 
 ---
 
-## 📸 Preview  
+## 📟 Preview  
 
 ![Interfaz](https://github.com/user-attachments/assets/fcb3d19c-33a9-4f0e-98b2-30606a56690f)
 ![interfaz2](https://github.com/user-attachments/assets/57b09e0a-eff7-4bc7-859d-3058a05563f4)
