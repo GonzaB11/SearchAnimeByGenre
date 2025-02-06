@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5485a1ce-98e0-42ac-aedc-ca14036a1fae)# 🌟 Anime Recommender 🎌  
+# 🌟 Anime Recommender 🎌  
 
 Your personal anime recommendation system! 🎥✨  
 
